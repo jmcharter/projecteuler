@@ -1,3 +1,3 @@
-a = str(789).strip()
+a = str(789).split()
 
 print(a)
